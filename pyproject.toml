@@ -1,0 +1,13 @@
+[project]
+name = "mercari-mcp"
+version = "0.1.0"
+description = "A FastMCP server to search Mercari Japan."
+requires-python = ">=3.10"
+readme = "README.md"
+
+dependencies = [
+    # Core FastMCP library
+    "fastmcp>=2.0.0",
+    "mercari",
+    "pydantic>=2.0",
+]
