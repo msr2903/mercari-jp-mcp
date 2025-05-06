@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "A FastMCP server to search Mercari Japan."
 requires-python = ">=3.10"
 readme = "README.md"
+license = "MIT"
 
 dependencies = [
     "fastmcp>=2.0.0",
