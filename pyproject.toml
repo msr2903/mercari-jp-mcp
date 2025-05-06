@@ -8,6 +8,6 @@ readme = "README.md"
 dependencies = [
     # Core FastMCP library
     "fastmcp>=2.0.0",
-    "mercari",
+    "mercari==2.2.1",
     "pydantic>=2.0",
 ]
