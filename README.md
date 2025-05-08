@@ -1,5 +1,5 @@
 ## Demo
-![MCP Demo](assets/demo.gif =250x250)
+<img src="/assets/demo.gif" width="250" height="250"/>
 
 ## Requirements
 
