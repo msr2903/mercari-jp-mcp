@@ -1,3 +1,6 @@
+## Demo
+![MCP Demo](assets/demo.gif)
+
 ## Requirements
 
 - Python 3.11 or higher
