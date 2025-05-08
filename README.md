@@ -1,5 +1,5 @@
 ## Demo
-<img src="/assets/demo.gif" width="250" height="250"/>
+<img src="/assets/demo.gif" width="500" height="500"/>
 
 ## Requirements
 
