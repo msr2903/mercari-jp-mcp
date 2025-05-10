@@ -1,9 +1,6 @@
 from typing import Any, Dict, List, Optional
-
 from mercari import (MercariOrder, MercariSearchStatus, MercariSort, search)
-
 from pydantic import Field
-
 from fastmcp import FastMCP
 
 mercari_mcp = FastMCP(name="MercariSearchComplete", dependencies=["mercari"])
