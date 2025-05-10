@@ -8,6 +8,14 @@
   - mcp
   - mercari
   - pydantic
+    
+## Pre-setup
+
+1. uv
+   https://docs.astral.sh/uv/getting-started/installation/
+
+2. Microsoft C++ Build Tools (For Windows)
+   https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
 ## Setup
 
