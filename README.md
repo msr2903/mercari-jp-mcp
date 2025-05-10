@@ -100,7 +100,7 @@ To integrate this server with Claude for Desktop:
 ## Thanks
 This work would not have been possible without amazing open source projects, including (but not limited to):
 
-- jlowin/fastmcp (https://github.com/jlowin/fastmcp)
-- marvinody/mercari (https://github.com/marvinody/mercari/)
+- @jlowin /fastmcp (https://github.com/jlowin/fastmcp)
+- @marvinody /mercari (https://github.com/marvinody/mercari/)
 
 Thank you to the authors of these projects for making them available to the community!
