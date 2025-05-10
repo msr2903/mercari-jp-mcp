@@ -1,3 +1,6 @@
+## Demo
+<img src="/assets/demo.gif" width="600" height="600"/>
+
 ## Requirements
 
 - Python 3.11 or higher
