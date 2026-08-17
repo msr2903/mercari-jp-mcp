@@ -1,9 +1,10 @@
 from typing import Any, Dict, List, Optional
+import patches  # noqa: F401  # fixes mercari 2.2.1 DPoP signing + adds retries
 from mercari import (MercariOrder, MercariSearchStatus, MercariSort, search)
 from pydantic import Field
 from fastmcp import FastMCP
 
-mercari_mcp = FastMCP(name="MercariSearchComplete", dependencies=["mercari"])
+mercari_mcp = FastMCP(name="MercariSearchComplete")
 
 @mercari_mcp.tool(name="search_mercari_jp", 
                 description="""Search Mercari for items, excluding keywords and filtering by price and specific model name.
